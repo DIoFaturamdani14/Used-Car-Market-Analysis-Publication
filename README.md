@@ -2,30 +2,61 @@
 
 ## Overview
 
-This repository contains the official Letter of Acceptance (LOA) and the published journal for my undergraduate research entitled:
+This repository contains the official publication and Letter of Acceptance (LOA) for my undergraduate research entitled:
 
-**Analisis dan Segmentasi Pasar Mobil Bekas di Jabodetabek Berdasarkan Data Iklan OLX Menggunakan Metode K-Means Clustering dan Dashboard Business Intelligence**
+> **Used Car Market Analysis and Segmentation in Greater Jakarta Based on OLX Advertisement Data Using K-Means Clustering and Business Intelligence Dashboard**
 
-This research presents a Business Intelligence solution for analyzing the used car market in Greater Jakarta using data collected from OLX. The study includes web scraping, data cleaning, market segmentation using the K-Means Clustering algorithm, analytical database design with a Star Schema, and interactive dashboard visualization using Microsoft Power BI.
+This research presents a Business Intelligence solution for analyzing the used car market in Greater Jakarta using OLX marketplace data. The project covers the complete analytics workflow, including data collection through web scraping, data preprocessing, K-Means clustering for market segmentation, analytical database design using a Star Schema, and interactive dashboard visualization with Microsoft Power BI.
 
 ---
 
-## Publication
+## Repository Contents
 
-- 📄 DIO FATURAMDANI -LOA.pdf
-- 📄 DIO FATURAMDANI-PUBLIKASI.pdf
+```
+Used-Car-Market-Analysis-Publication/
+│
+├── Journal-Publication.pdf
+├── Letter-of-Acceptance.pdf
+└── README.md
+```
+
+---
+
+## Included Documents
+
+### 📄 Journal Publication
+
+Official published paper in the Journal of Information Systems Research (JPSI).
+
+File:
+
+```
+Journal-Publication.pdf
+```
+
+---
+
+### 📄 Letter of Acceptance (LOA)
+
+Official Letter of Acceptance issued by the journal editorial board.
+
+File:
+
+```
+Letter-of-Acceptance.pdf
+```
 
 ---
 
 ## Research Highlights
 
 - Web Scraping from OLX Marketplace
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Market Segmentation using K-Means Clustering
 - Analytical Database Design (Star Schema)
 - Microsoft SQL Server
 - Business Intelligence Dashboard
-- Interactive Data Visualization using Microsoft Power BI
+- Interactive Data Visualization with Microsoft Power BI
 - Black Box Testing
 
 ---
@@ -36,25 +67,15 @@ This research presents a Business Intelligence solution for analyzing the used c
 - Pandas
 - Scikit-learn
 - Microsoft SQL Server
-- Power BI
-
----
-
-## Repository Contents
-
-```text
-LOA.pdf
-Published_Journal.pdf
-README.md
-```
+- Microsoft Power BI
 
 ---
 
 ## Related Project
 
-The complete implementation of this research, including Python scripts, SQL Server database, and Power BI dashboard, is available in my repository:
+The complete implementation of this research—including Python scripts, SQL Server database, data warehouse, and interactive Power BI dashboard—is available in the repository below:
 
-➡️ **OLX-Used-Car-Market-BI-Dashboard**
+➡️ **Used-Car-Market-Analysis**
 
 ---
 
@@ -62,7 +83,7 @@ The complete implementation of this research, including Python scripts, SQL Serv
 
 **Title**
 
-Analisis dan Segmentasi Pasar Mobil Bekas di Jabodetabek Berdasarkan Data Iklan OLX Menggunakan Metode K-Means Clustering dan Dashboard Business Intelligence
+*Used Car Market Analysis and Segmentation in Greater Jakarta Based on OLX Advertisement Data Using K-Means Clustering and Business Intelligence Dashboard*
 
 **Journal**
 
@@ -82,7 +103,8 @@ https://doi.org/10.54066/jpsi.v4i2.4078
 
 **Dio Faturamdani**
 
-Information Systems Graduate
+Bachelor of Information Systems
 
-Universitas Tarumanagara# Used-Car-Market-Analysis-Publication
-Published research on used car market analysis using Business Intelligence, Power BI, and K-Means Clustering based on OLX marketplace data.
+Business Intelligence | Data Analytics | Microsoft Power BI | SQL | Python
+
+Universitas Tarumanagara
