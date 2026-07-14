@@ -6,7 +6,7 @@ This repository contains the official publication and Letter of Acceptance (LOA)
 
 > **Used Car Market Analysis and Segmentation in Greater Jakarta Based on OLX Advertisement Data Using K-Means Clustering and Business Intelligence Dashboard**
 
-This research presents a Business Intelligence solution for analyzing the used car market in Greater Jakarta using OLX marketplace data. The project covers the complete analytics workflow, including data collection through web scraping, data preprocessing, K-Means clustering for market segmentation, analytical database design using a Star Schema, and interactive dashboard visualization with Microsoft Power BI.
+This research presents a Business Intelligence solution for analyzing the used car market in Greater Jabodetabek using OLX marketplace data. The project covers the complete analytics workflow, including data collection through web scraping, data preprocessing, K-Means clustering for market segmentation, analytical database design using a Star Schema, and interactive dashboard visualization with Microsoft Power BI.
 
 ---
 
