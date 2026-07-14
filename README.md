@@ -12,8 +12,8 @@ This research presents a Business Intelligence solution for analyzing the used c
 
 ## Publication
 
-- 📄 Published Journal
-- 📄 Letter of Acceptance (LOA)
+- 📄 DIO FATURAMDANI -LOA.pdf
+- 📄 DIO FATURAMDANI-PUBLIKASI.pdf
 
 ---
 
